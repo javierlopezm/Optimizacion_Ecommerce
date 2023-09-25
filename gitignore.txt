@@ -1,0 +1,3 @@
+*
+!.gitignore
+!Optimizacion_Ecommerce.ipynb
